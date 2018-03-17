@@ -1,0 +1,21 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging C:\Project\Traning\Scala\Recursive\target\scala-2.11\recursive_2.11-0.1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Project\Traning\Scala\Recursive\target\scala-2.11\classes\com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\ozconsulting\conventional$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Project\Traning\Scala\Recursive\target\scala-2.11\classes\com\ozconsulting\conventional$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\ozconsulting\recursive$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Project\Traning\Scala\Recursive\target\scala-2.11\classes\com\ozconsulting\recursive$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\ozconsulting[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Project\Traning\Scala\Recursive\target\scala-2.11\classes\com\ozconsulting[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\ozconsulting\conventional$$anonfun$printConventional$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Project\Traning\Scala\Recursive\target\scala-2.11\classes\com\ozconsulting\conventional$$anonfun$printConventional$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\ozconsulting\conventional$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Project\Traning\Scala\Recursive\target\scala-2.11\classes\com\ozconsulting\conventional$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\ozconsulting\recursive$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Project\Traning\Scala\Recursive\target\scala-2.11\classes\com\ozconsulting\recursive$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\ozconsulting\conventional.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Project\Traning\Scala\Recursive\target\scala-2.11\classes\com\ozconsulting\conventional.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\ozconsulting\recursive.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Project\Traning\Scala\Recursive\target\scala-2.11\classes\com\ozconsulting\recursive.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
